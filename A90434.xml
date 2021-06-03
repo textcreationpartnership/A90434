@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>P. Ruperts marching out of Oxford. With the names of the most eminent persons with him. Also a list of the strength and forces of Oxford, and severall votes of the councell of war. And Sir Thomas Fairfax his passes to knights, colonels, and others, and the severall proceedings about the surrender of Oxford to Sir Thomas Fairfax yesterday, Wednesday, June 24. 1646. These are copied out of the originall papers (sent from his Excellencies quarters) commanded to be printed, and are published by order of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90434</idno><idno type="EEBO-CITATION">99861528</idno>
+  <idno type="VID">159758</idno>
+  <idno type="EEBO-PROQUEST">2240894864</idno>
+  
+            <idno type="STC">Wing P141</idno>
+            <idno type="STC">Thomason E341_17</idno>
+            <idno type="STC">ESTC R200907</idno>
+            <idno type="PROQUEST">99861528</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861528e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159758)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>P. Ruperts marching out of Oxford. With the names of the most eminent persons with him. Also a list of the strength and forces of Oxford, and severall votes of the councell of war. And Sir Thomas Fairfax his passes to knights, colonels, and others, and the severall proceedings about the surrender of Oxford to Sir Thomas Fairfax yesterday, Wednesday, June 24. 1646. These are copied out of the originall papers (sent from his Excellencies quarters) commanded to be printed, and are published by order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.P.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune 25. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Oxford (England) --  History --  Siege, 1646 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159758:1"/>
+            <p>P. RUPERTS Marching out of OXFORD.</p>
+            <p>With the names of the most emi<g ref="char:EOLhyphen"/>nent Persons with him.</p>
+            <p>ALSO A List of the strength and Forces of <hi>Oxford,</hi> and severall Votes of the Councell of war.</p>
+            <p>And Sir THOMAS FAIRFAX his Passes to Knights, Colonels, and others, and the severall proceedings about the surrender of <hi>Oxford</hi> to Sir <hi>Thomas Fairfax</hi> yesterday, Wednesday, June 24. 1646.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>These are Copied out of the Originall Papers (sent from his Excellencies Quarters) commanded to be Printed, and are published by Order of</hi> PARLIAMENT.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for <hi>E. P. Iune</hi> 25. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159758:2"/>
+            <pb n="1" facs="tcp:159758:2"/>
+            <head>The Copie of a Letter from his Excellency Sir THOMAS FAIRFAXS his Quarters.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Generall considering, that the Reducing of this Citie of <hi>Oxford</hi> to be of great con<g ref="char:EOLhyphen"/>cernment to the whole Kingdome, and of great use to the peace thereof, it being the mother▪ seat to hold up the spirits of the Enemie; The taking whereof, his Excellencie prosecuted with much wise<g ref="char:EOLhyphen"/>dome and gallant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie: His Excellencie searched into the strength and condition of the Garrison, that so he might acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dingly proceed in the taking in there<g ref="char:EOLhyphen"/>of, a worke of greater consequence then any action since the Warres began.</p>
+            <p>His Excellency therefore called a Councell of warre, consisting of the chiefest of his Officers, who making all diligent enqui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y into the state of <hi>Oxford,</hi> held many debates about the same, and upon their consultations thereon, found as followeth:</p>
+            <p n="1">1. <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>solved upon the Question.</hi>
+            </p>
+            <p>That the City of <hi>Oxford</hi> is furnished with Victuals and provisions for 6. months.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:159758:3"/>2. <hi>Resolved upon Question.</hi>
+            </p>
+            <p>That the City of <hi>Oxford</hi> is furnished with Ammu<g ref="char:EOLhyphen"/>nition sufficient to serve for their defence during the said 6. months.</p>
+            <p n="3">3. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That there are neer 5000 Horse and Foot upon con<g ref="char:EOLhyphen"/>stant dutie to defend the Citie and Workes of <hi>Oxford</hi> against his Excellency.</p>
+            <p n="4">4. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That there is a Regular Line without the Workes of the Citie of <hi>Oxford,</hi> to the strengthning of the North-side, whereof it reacheth from <hi>Isis</hi> to <hi>Charwell,</hi> it is flanked with good Bulwarkes, the Grasse very deepe and broad, the Counter-scarp stockadoed, the Rampart high and pallizadoed within.</p>
+            <p n="5">5. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That there is a very defencible Line, and behind that the Wall of the Citie of <hi>Oxon.</hi>
+            </p>
+            <p n="6">6. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That on that side which S. <hi>Clement</hi> stands, without <hi>Maudlin</hi> bridge, the Worke of the Garrison of the Citie of <hi>Oxford,</hi> are as strong, or stronger, then in a<g ref="char:EOLhyphen"/>ny other part of the Citie; and that in case it should be gained by storme, there would the greatest difficul<g ref="char:EOLhyphen"/>tie remaine to enter the Citie on that side, by reason that the Bridge is in the Enemies power, and the Ri<g ref="char:EOLhyphen"/>ver under their command.</p>
+            <p n="7">7. <hi>Resolved upon the Question</hi>
+            </p>
+            <p>That the South, and the West parts of the Citie of <hi>Oxon,</hi> have strong Workes and Regular, and also the benefit of the Rivers, the Medowes being deepe with waters, that are floated for their defence.</p>
+            <pb n="3" facs="tcp:159758:3"/>
+            <p>These, and all other considerations being had, and the Councell of Warre further considering, that we had but little advantage of any approaches that we had or could make, being much upon Causey-wayes, and the neerest in places so low, that our men could not goe on without danger of being surrounded, in cafe they should attempt upon us by a sally from <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+            </p>
+            <p>Therefore the Councel of War, consulting what to doe, it was debated: </p>
+            <p>1. <hi>Question.</hi>
+            </p>
+            <p>Whether any attempt might be made against <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> by a storme?</p>
+            <p n="1">1. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>The storming of <hi>Oxford</hi> is a thing for the present not adviseable. </p>
+            <p>2. <hi>Question.</hi>
+            </p>
+            <p>Whether the starving of the Citie be most conve<g ref="char:EOLhyphen"/>nient for the reducing of <hi>Oxford.</hi>
+            </p>
+            <p n="2">2. <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That in regard there is six moneths provisions in the Citie (of victualls) the starving of <hi>Oxford</hi> is not most convenient. </p>
+            <p>3. <hi>Question.</hi>
+            </p>
+            <p>Whether it be adviseable to proceed by approa<g ref="char:EOLhyphen"/>ches, for the taking of the Citie of <hi>Oxford?</hi>
+            </p>
+            <p n="3">3. <hi>Resolved upon the Question.</hi> Yea.</p>
+            <p>This way (therefore) being found most adviseable, was at first intended, in regard that we were necessita<g ref="char:EOLhyphen"/>ted to go on, all being resolved to follow it with all faithfulnesse and diligence; yet considering afterwards this way (though the speediest in wisedome to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke it by force▪ might take up as many moneths as starving the Citie, and being labourers for the peace of the Kingdome, as you may see by this following Paper.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="part">
+                        <pb n="4" facs="tcp:159758:4"/>
+                        <head>A Paper upon the Result of the Councell of Warre.</head>
+                        <p n="1">1. IT will be necessary not only to privide money to pay the Army, according to the establishment, in regard the countrey is already exhaust, and not able to beare free quarter, nor will Victuall be brought to the Leaguer, except there be money to pay for it, but also, that considerable summes of money be alwayes in hand for Approaches, Mines, Bridges, Galleries, Forts, Batteries, and many other contingent char<g ref="char:EOLhyphen"/>ges which will arise in the carrying on a worke of this nature,</p>
+                        <p n="2">2. Sufficient proportions of Powder, Match, Ball, Granadoes, Sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>des, Shovels, Pickaxes, Spikes, Nayles, &amp;c. and these to be brought to <hi>Reading,</hi> to be in readinesse, as wee shall have occasion to use them.</p>
+                        <p n="3">3. That care be taken to provide victuals for the Foote, which doe daily walke by sicknesse and o<g ref="char:EOLhyphen"/>therwaies; It being the opinion of the Officers, that the numbers of the Foote must be held up, being alreadie upon hard duty▪ to carry on the worke at present, which will be much more increased as the approaches come nearer to the Enemies works.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:159758:4"/>
+            <p>All which must have beene continued, had they gone on to take <hi>Oxford</hi> by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore they were resolved to provide in the Treaty which according<g ref="char:EOLhyphen"/>ly was done, and concluded on Saturday night last. On Monday there marched out of <hi>Oxford</hi> Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> Prince <hi>Maurice,</hi> the Lord <hi>Hanly,</hi> the Lord <hi>Ger<g ref="char:EOLhyphen"/>rard,</hi> and all about 70. with their Horses, Carria<g ref="char:EOLhyphen"/>ges, &amp;c. are gone to <hi>Gilford</hi> in <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trey:</hi> Many others come out, many Knights, Colonels, and others have had their passes: We have had very sufficient Ho<g ref="char:EOLhyphen"/>stages, to assure us that we shall to morrow enter <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> according to the Articles, and then you shall have the particulars from</p>
+            <closer>
+               <signed>Your Servant, N. T.</signed>
+               <dateline>
+                  <hi>Water-Eat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi>
+                  <date> the 23. of June, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Parliament considering the many gal<g ref="char:EOLhyphen"/>lant actions done for this Kingdome by his Excellencie Sir <hi>Thomas Fairfax,</hi> and particu<g ref="char:EOLhyphen"/>larly this against <hi>Oxford,</hi> made these Votes:</head>
+            <pb n="6" facs="tcp:159758:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 23 Junii, 1646.</date>
+               </dateline>
+            </opener>
+            <p n="1">1 <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That this House doth approve of the Proceedings of the Generall in the making of these Articles, for, and concerning the rendring of the Garrisons of OXFORD and FARRING<g ref="char:EOLhyphen"/>DON, and in the performing of them.</p>
+            <p n="2">2 <hi>Resolved, &amp;c.</hi>
+            </p>
+            <p>That these Articles, for, and con<g ref="char:EOLhyphen"/>cerning the rendring of the Garri<g ref="char:EOLhyphen"/>sons of OXFORD and FARINGDON, be forthwith Printed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
